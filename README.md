@@ -1,2 +1,4 @@
 # diegocldrn.github.io
-Thanks Github for the free website hosting (PLEASE DON'T TAKE MY REPO DOWN PLSSSS)
+Did you know that the first ever website was first launched on August 1, 1991?
+It was ran on a NeXT computer, making it the Internet's first ever web server.
+You can visit it here. "http://info.cern.ch"
